@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">memory</string>
+    <string name="msgBienvenue">Hello</string>
+</resources>
